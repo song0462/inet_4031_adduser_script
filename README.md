@@ -4,9 +4,7 @@ By: Genuine Song
 
 ---
 
-Contents
-  create-users.input
-  create-users.py
+Contents: create-users.input, create-users.py
   
 ---
 
