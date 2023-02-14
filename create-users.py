@@ -11,7 +11,7 @@ def main():
 		fields = line.strip().split(':') #strip any whitespace and split into 
                                                 #into an array
 
-		if match or len(fields) != 5: # if its a #/comment then move on, or if the .input file line is not 5 then dont check it
+		if match or len(fields) != 5: # if its a #/comment then move on, or if the .input file line is not 5 in length then dont check it
 			continue  #the continue here is for the FOR loop. So if the line
 				   #starts with a # or does NOT have five fields, we skip it
 		
